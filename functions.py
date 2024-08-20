@@ -1,4 +1,5 @@
-"""def function_name(requried_parameter):
+"""def function_name(requried_paramete
+jbj
     '''doc_string'''
     logic
     return value
